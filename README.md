@@ -654,3 +654,15 @@ Les README des Sprint 1, Sprint 2 et Sprint 3 décrivent les incréments réelle
 * **Documentation Sprint 3 :** `documents/sprint-3/`
 
 L'adresse active de l'environnement de démonstration peut être transmise séparément à l'enseignant avec les autres éléments du livrable.
+## Équipe et contributions
+
+MealSaver est un projet réalisé en équipe dans le cadre de notre formation.
+
+### Membres de l'équipe
+
+- Hafed — coordination technique, intégration et fonctionnalités du projet
+- Kevin Mai — recettes, alertes, QA, validation fonctionnelle, budget/dépenses et économies estimées
+- Jean Jacques Arquero — fonctionnalités collaboratives et contributions au projet
+- Danensky — contributions aux fonctionnalités et aux travaux des premiers sprints
+
+Les contributions détaillées peuvent être consultées dans l'historique Git et les Pull Requests du projet.
